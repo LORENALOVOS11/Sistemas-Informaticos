@@ -4,7 +4,7 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! 🚀
 
-Soy estudiante de **Desarrollo de Software** y me interesa aprender, practicar y mejorar continuamente mis conocimientos en programación y desarrollo web.
+Soy estudiante de **Desarrollo de Software** y me interesa aprender, practicar y mejorar continuamente mis conocimientos en programación, desarrollo web y creación de aplicaciones.
 
 ---
 
@@ -15,7 +15,7 @@ Soy estudiante de **Desarrollo de Software** y me interesa aprender, practicar y
 * 🌱 Actualmente aprendiendo nuevas tecnologías
 * 🚀 Me gusta crear proyectos para practicar lo aprendido
 * 📚 Siempre buscando mejorar mis habilidades
-* 🔧 Utilizo GitHub para guardar y compartir mis proyectos
+* 🔧 Utilizo GitHub para guardar, organizar y compartir mis proyectos
 
 ---
 
@@ -67,7 +67,7 @@ Proyecto de reproducción de música desarrollado para practicar el desarrollo d
 * CSS
 * JavaScript
 
-👉 **[Ver mis repositorios en GitHub](https://github.com/LORENALOVOS11?tab=repositories)**
+[![🚀 Ver mis proyectos](https://img.shields.io/badge/🚀%20VER%20MIS%20PROYECTOS-6f42c1?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lorenalovos11?tab=repositories)
 
 ---
 
@@ -84,7 +84,7 @@ Aplicación web progresiva orientada a la gestión de citas para servicios de u�
 * JavaScript
 * PWA
 
-👉 **[Ver mis repositorios en GitHub](https://github.com/TU_USUARIO?tab=repositories)**
+[![💅 Ver Nail PWA](https://img.shields.io/badge/💅%20VER%20NAIL%20PWA-6f42c1?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lorenalovos11?tab=repositories)
 
 ---
 
@@ -108,13 +108,27 @@ Aplicación web progresiva orientada a la gestión de citas para servicios de u�
 
 Mi objetivo es continuar desarrollando mis habilidades como programadora, crear proyectos cada vez más completos y adquirir experiencia en diferentes áreas del desarrollo de software.
 
-También quiero seguir aprendiendo nuevas tecnologías y utilizar GitHub para organizar, guardar y compartir mis proyectos.
+Quiero seguir aprendiendo nuevas tecnologías y utilizar GitHub para organizar, guardar y compartir mis proyectos.
 
 ---
 
-# 📊 Estadísticas de GitHub
+# 📂 Mis repositorios
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
+Aquí puedes encontrar mis proyectos y trabajos realizados durante mi aprendizaje.
+
+[![📂 Ver mis repositorios](https://img.shields.io/badge/📂%20VER%20MIS%20REPOSITORIOS-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lorenalovos11?tab=repositories)
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenalovos11\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 📈 Lenguajes más utilizados
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenalovos11\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
@@ -124,9 +138,27 @@ También quiero seguir aprendiendo nuevas tecnologías y utilizar GitHub para or
 
 ---
 
-# 🌐 Encuéntrame en GitHub
+# 🌐 Mi perfil de GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mi%20Perfil-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TU_USUARIO)
+[![🌐 Mi perfil](https://img.shields.io/badge/🌐%20MI%20PERFIL%20DE%20GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lorenalovos11)
+
+---
+
+# 🚀 Ver mis proyectos
+
+[![🚀 Ver mis proyectos](https://img.shields.io/badge/🚀%20VER%20MIS%20PROYECTOS-6f42c1?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lorenalovos11?tab=repositories)
+
+---
+
+# 🔗 Visitar GitHub
+
+[![🔗 Visitar GitHub](https://img.shields.io/badge/🔗%20VISITAR%20GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+
+---
+
+# 📁 Ver todos mis repositorios
+
+[![📁 Repositorios](https://img.shields.io/badge/📁%20VER%20TODOS%20MIS%20REPOSITORIOS-2088FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lorenalovos11?tab=repositories)
 
 ---
 
@@ -138,6 +170,6 @@ También quiero seguir aprendiendo nuevas tecnologías y utilizar GitHub para or
 
 ## ⭐ Gracias por visitar mi perfil
 
-Si te interesa conocer mis proyectos y mi progreso como estudiante de Desarrollo de Software, puedes visitar mis repositorios.
+¡Gracias por visitar mi perfil! Espero seguir compartiendo nuevos proyectos y aprendiendo cada día más sobre desarrollo de software. 🚀
 
-[![Ver proyectos](https://img.shields.io/badge/🚀%20VER%20MIS%20PROYECTOS-Visitar%20GitHub-6f42c1?style=for-the-badge)](https://github.com/TU_USUARIO?tab=repositories)
+[![⭐ Visitar mi perfil](https://img.shields.io/badge/⭐%20VISITAR%20MI%20PERFIL-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lorenalovos11)
