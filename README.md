@@ -159,6 +159,39 @@ Aquí puedes encontrar mis proyectos y trabajos realizados durante mi aprendizaj
 # 📁 Ver todos mis repositorios
 
 [![📁 Repositorios](https://img.shields.io/badge/📁%20VER%20TODOS%20MIS%20REPOSITORIOS-2088FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lorenalovos11?tab=repositories)
+# 📚 Mis documentos y trabajos
+
+Aquí puedes encontrar algunos de mis trabajos, documentos y presentaciones realizados durante mi formación en **Desarrollo de Software**.
+
+---
+
+## 📊 Documentación
+
+[![📊 DESCARGAR PRESENTACIÓN](https://img.shields.io/badge/📊%20DESCARGAR%20PRESENTACIÓN-6f42c1?style=for-the-badge)](https://github.com/LORENALOVOS11/Sistemas-Informaticos/raw/refs/heads/main/Documentaci%C3%B3n1111.pptx)
+
+---
+
+## 📝 Etapa de Decidir — Parte 3
+
+[![📄 DESCARGAR DOCUMENTO](https://img.shields.io/badge/📄%20DESCARGAR%20DOCUMENTO-2088FF?style=for-the-badge)](https://github.com/LORENALOVOS11/Sistemas-Informaticos/raw/refs/heads/main/etapa%20de%20decidir%20parte%20333.docx)
+
+---
+
+## 📝 Etapa de Decidir — Parte 4
+
+[![📄 DESCARGAR DOCUMENTO](https://img.shields.io/badge/📄%20DESCARGAR%20DOCUMENTO-2088FF?style=for-the-badge)](https://github.com/LORENALOVOS11/Sistemas-Informaticos/raw/refs/heads/main/etapa%20de%20decidir%20444.docx)
+
+---
+
+## 💅 Manual de Usuario — Nail PWA
+
+[![📘 DESCARGAR MANUAL DE USUARIO](https://img.shields.io/badge/📘%20DESCARGAR%20MANUAL%20DE%20USUARIO-6f42c1?style=for-the-badge)](https://github.com/LORENALOVOS11/Sistemas-Informaticos/raw/refs/heads/main/Manual_de_Usuario_NailsPWA.docx)
+
+---
+
+## 📂 Ver todos mis documentos
+
+[![📂 VER REPOSITORIO](https://img.shields.io/badge/📂%20VER%20TODOS%20MIS%20DOCUMENTOS-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LORENALOVOS11/Sistemas-Informaticos)
 
 ---
 
